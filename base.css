@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 24px;
+    background: #f4f4f4;
+}
+
+#changebin{
+   background-color: #98bc03;
+   color: white;
+   border: 2px solid #98bc03;
+   border-radius: 6px;
+   padding: 10px 16px;
+   cursor: pointer;
+}
+
+#changebin:hover{
+   background-color: #b1036e;
+}
